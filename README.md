@@ -33,18 +33,6 @@ I'm an indie full-stack developer building my version of the digital world one s
 <br />
 
 #
-
-
-
-
-
-#
-
-### 📊 Stats
-
-![Degraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-
 #
 
 <details>
